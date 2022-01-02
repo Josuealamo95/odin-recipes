@@ -3,3 +3,12 @@ h1 {
     font-size: 60px;
     text-align: center;
 }
+
+p {
+    font-size: 20px;
+}
+
+ul, ol li {
+
+    font-size: 20px;
+}
